@@ -1,2 +1,4 @@
-# csd-380
-Bellevue University CSD 380 DevOps
+# CSD 380 DevOps
+## Contributors
+* Professor Joseph Issa
+* Lindsey Yin
